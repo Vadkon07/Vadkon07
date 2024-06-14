@@ -11,6 +11,18 @@ My opinion about my laptop: Can be good enough for basic things as browsing, You
 
 I would like to buy a better laptop (probably used Lenovo) for my coding hobbie, maybe something with a Intel Core i5 2-3 gen processor and 8GB of RAM, but for now I don't have enough money for it.
 
+/// What I use fo my coding (let's say my coding EDC) \\\
+
+Devices:
+
+1. Samsung Galaxy M32 with USB cable (as a hotspot for my laptop).
+2. Acer Aspire 5250.
+
+Apps:
+
+Text editor: only vim
+IDE: Linux with his terminal
+Additional: tmux, git, firefox
 
 /// My coding skills \\\
 
