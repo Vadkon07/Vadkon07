@@ -8,7 +8,7 @@
  <!-- About section -->
 
 ---
-✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, and contribute to the Open Source movement. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
+✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, contribute to the Open Source movement, etc. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
 
 🎵 When I’m not immersed in code, you’ll find me crafting hip-hop music or diving into a good book. Sharing knowledge and collaborating with others energizes me. Let’s make the tech world bigger and better together! 🚀
 
