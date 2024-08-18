@@ -3,6 +3,7 @@
 
 <!-- Profile Views -->
 
+![hippo](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
 
  <!-- About section -->
 
@@ -46,7 +47,8 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
  <!-- Conecct section: END -->
   
   <!-- GitHub section -->
- 
+
+ <h2>Github Stats 📈<h/2>
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07&theme=dark" alt="Vadim's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vadim's language" height="192px"  width="500px"/>
