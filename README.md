@@ -1,6 +1,8 @@
 <!-- Heading -->
 <h3 align="center">Hi! I'm Vadim Kondratov</h3>
 
+---
+
 <!-- Profile Views -->
 
 ![hippo](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
