@@ -9,17 +9,17 @@
  <!-- About section -->
 
 ---
-✨ I'm a coder which likes to create all kind of applications. I use Python, C, and C++. 
+✨ I'm a coder which likes to create all kind of applications.
 
-I love sharing my knowledge with others, so feel free to ask me questions. I like Open Source movement, so I'm also fluent in Linux and use only Open Source software. When I'm not coding, you can find me writing hip-hop music or music.
+I love sharing my knowledge with others, so feel free to ask me questions. I like Open Source movement, so I'm also fluent in Linux and use a lot of Open Source software. When I'm not coding, you can find me writing hip-hop music or music.
 
 
 <!-- code gif-->
-<img align="center" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Njk1ODIsIm5iZiI6MTcyMzk2OTI4MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE4VDA4MjEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyM2U5ZTcyOGU3NmQ0YTMzNWEwMDE5YjhjOGMyMTg5MmUzZGE5Mzk5MzJhNzM4MDM0OTQwYjg4ZDczMjAyYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Wwyl3xzMf0B81Qp6qQH3hq27nzIg2FJZCzEWgEWWEd0" width="500" height="320" />
+<p align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Njk1ODIsIm5iZiI6MTcyMzk2OTI4MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE4VDA4MjEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyM2U5ZTcyOGU3NmQ0YTMzNWEwMDE5YjhjOGMyMTg5MmUzZGE5Mzk5MzJhNzM4MDM0OTQwYjg4ZDczMjAyYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Wwyl3xzMf0B81Qp6qQH3hq27nzIg2FJZCzEWgEWWEd0" width="500" height="320" />
 
 - 😄 **My Pronouns:** He/Him
 
-- 💬 **Ask me about:** Psychology, Books, Workout, Content Creation, Personal-Development, Tech
+- 💬 **Ask me about:** Psychology, Books, Music, Workout, Content Creation, Personal-Development, Tech
 
 - 📫 **How to reach me (email):** vadkonbeats@gmail.com
 
@@ -29,7 +29,9 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 
 - 🏆 **Main goal:** Move to the United States of America
 
-- 💻 **Languages and tools:** Python, C, C++, HTML, CSS, Windows, Linux
+- 💻 **Languages and tools:** Python, C, C++, HTML, CSS
+- 💾 **OS:** Windows, Linux
+- 🛠 **Tools:** Vim, Git, Apache, Visual Code
 
 <!-- About section: END -->
 
@@ -53,14 +55,12 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vadim's language" height="192px"  width="500px"/>
 </div>
 
+
 **Expand to view**
+
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
 </details>
 
 <!-- GitHub section: END -->
