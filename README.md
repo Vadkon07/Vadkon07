@@ -63,8 +63,6 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Vadkon07/"><img alt="Vadim' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vadkon07&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 </details>
 
 <!-- GitHub section: END -->
