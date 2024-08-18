@@ -8,7 +8,9 @@
  <!-- About section -->
 
 ---
-✨ I'm a coder which likes to create all kind of applications. I'm in a big love with tech, and started to discover her since I was 10. I'm a programmer, but also I like to repair tech, assembly computers, and fully customize my OS internally and externally.
+✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, and contribute to the Open Source movement. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
+
+🎵 When I’m not immersed in code, you’ll find me crafting hip-hop music or diving into a good book. Sharing knowledge and collaborating with others energizes me. Let’s make the tech world bigger and better together! 🚀
 
 I love sharing my knowledge with others, so feel free to ask me questions. I like Open Source movement, and I'm also fluent in Linux and use a lot of Open Source software. When I'm not coding, you can find me writing hip-hop music or reading a book.
 
