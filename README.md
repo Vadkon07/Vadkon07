@@ -1,12 +1,6 @@
-<h1 align="center">👋 Hi, I'm Vadim Kondratov</h1>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
-![hp](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<h1 align="center">👋 Hi, I'm Vadim Kondratov</h1>
 
 ---
 ✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, contribute to the Open Source movement, etc. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
@@ -46,3 +40,5 @@
 </div>
 
   ![views](https://komarev.com/ghpvc/?username=Vadkon07)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
