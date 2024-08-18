@@ -17,17 +17,19 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 <!-- code gif-->
 <img align="center" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5Njk1ODIsIm5iZiI6MTcyMzk2OTI4MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE4VDA4MjEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyM2U5ZTcyOGU3NmQ0YTMzNWEwMDE5YjhjOGMyMTg5MmUzZGE5Mzk5MzJhNzM4MDM0OTQwYjg4ZDczMjAyYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Wwyl3xzMf0B81Qp6qQH3hq27nzIg2FJZCzEWgEWWEd0" width="500" height="320" />
 
-- 😄 My Pronouns: He/Him
+- 😄 **My Pronouns:** He/Him
 
-- 💬 Ask me about: Psychology, Books, Workout, Content Creation, Personal-Development
+- 💬 **Ask me about:** Psychology, Books, Workout, Content Creation, Personal-Development, Tech
 
-- 📫 How to reach me (email): vadkonbeats@gmail.com
+- 📫 **How to reach me (email):** vadkonbeats@gmail.com
 
-- ⚡ Fun fact: In all schools I always was a PC techinican for whole school (for free, for me it's just a hobby), since I was 10. And even when I came from Ukraine to Italy, nothing was changed even in Italian schools.
+- ⚡ **Fun fact:** In all schools I always was a PC techinican for whole school (for free, for me it's just a hobby), since I was 10. And even when I came from Ukraine to Italy, nothing was changed even in Italian schools.
 
-- 🎓 Education: Study
+- 🎓 **Education:** Still study
 
-- 🏆 Main goal: Move to the Unites States of America
+- 🏆 **Main goal:** Move to the United States of America
+
+- 💻 **Languages and tools:** Python, C, C++, HTML, CSS, Windows, Linux
 
 <!-- About section: END -->
 
@@ -36,8 +38,8 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/vadim-kondratov-526018324/"><img src="https://img.shields.io/badge/-Vadim%20Kondratov%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/vadim-kondratov-526018324/" alt="LinkedIn Badge"></a> 
-<a href="https://www.youtube.com/@Vadkon07"><img src="https://img.shields.io/badge/-Vadim Kondratov-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+        <a href="https://www.linkedin.com/in/vadim-kondratov-526018324/"><img src="https://img.shields.io/badge/-Vadim%20Kondratov%20-black?style=plastic&amp;labelColor=black&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/vadim-kondratov-526018324/" alt="LinkedIn Badge"></a> 
+<a href="https://www.youtube.com/@Vadkon07"><img src="https://img.shields.io/badge/-Vadim Kondratov-red?style=plastic&amp;labelColor=red&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
    </p>
 
  <!-- Conecct section: END -->
@@ -47,8 +49,8 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07" alt="Vadim's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Vadim's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07&theme=dark" alt="Vadim's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vadim's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
