@@ -22,13 +22,13 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 
 - ⚡ **Fun fact:** In all schools I always was a PC techinican for whole school (for free, for me it's just a hobby), since I was 10. And even when I came from Ukraine to Italy, nothing was changed even in Italian schools.
 
-- 🎓 **Education:** Still study
+- 🎓 **Education:** Still study :)
 
 - 🏆 **Main Goal:** Move to the United States of America
 
 - 💻 **I'm currently learning:** Python, C, C++, HTML, CSS
  
-- 💾 **OS:** Windows, Linux (have experience with literally all of them, but mainly prefer to use Arch Linux)
+- 💾 **OS:** Windows, Linux (have experience with literally all distributions, but mainly prefer to use Arch Linux)
  
 - 🛠 **Tools:** Vim, Git, Apache, Visual Code, Firefox
 
