@@ -6,10 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vadkon2007&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a>
-</p>
-
  <!-- About section -->
 
 ---
@@ -66,8 +62,3 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 </details>
 
 <!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vadkon07&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
