@@ -30,7 +30,7 @@
 - 💾 **OS which I use:** Windows, Linux (have experience with literally all distributions, but mainly prefer to use Arch Linux), Android
  
 - 🛠 **Tools:** Vim, Git, Apache, Visual Code, Firefox, GCC, i3wm, Alacritty
-- 
+
 <h2>Connect with me ✉️</h3>
     <p>
          <a href="https://www.linkedin.com/in/vadim-kondratov-526018324/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
