@@ -43,7 +43,7 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
     <p>
          <a href="https://www.linkedin.com/in/vadim-kondratov-526018324/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.youtube.com/@Vadkon07"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-      <a href="mailto:contact@vadkonbeats?subject=[GitHub]%20🔥%20PConnect%20P&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+      <a href="mailto:vadkonbeats@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
    </p>
 
  <!-- Conecct section: END -->
