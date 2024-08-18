@@ -1,9 +1,7 @@
 <!-- Heading -->
-<h3 align="center">Hi! I'm Vadim Kondratov</h3>
+<h3 align="center">👋 Hi! I'm <b>Vadim Kondratov</b> </h3>
 
 ---
-
-<!-- Profile Views -->
 
 ![hippo](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
 
@@ -39,7 +37,7 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
+<h2>Connect with me ✉️</h3>
     <p>
          <a href="https://www.linkedin.com/in/vadim-kondratov-526018324/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.youtube.com/@Vadkon07"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
