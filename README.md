@@ -12,9 +12,6 @@
 
 🎵 When I’m not immersed in code, you’ll find me crafting hip-hop music or diving into a good book. Sharing knowledge and collaborating with others energizes me. Let’s make the tech world bigger and better together! 🚀
 
-I love sharing my knowledge with others, so feel free to ask me questions. I like Open Source movement, and I'm also fluent in Linux and use a lot of Open Source software. When I'm not coding, you can find me writing hip-hop music or reading a book.
-
-
 <!-- code gif-->
 
 - 😄 **My Pronouns:** He/Him
