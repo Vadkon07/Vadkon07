@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center">👋 Hi! I'm <b>Vadim Kondratov</b> </h3>
+<h1 align="center">👋 Hi! I'm Vadim Kondratov</h1>
 
 ---
 
