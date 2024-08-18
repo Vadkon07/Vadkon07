@@ -3,7 +3,11 @@
 
 ---
 
-![hippo](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+![hp](https://user-images.githubusercontent.com/11095731/136881424-89ef97ea-51eb-4910-9d86-9ccd2e77fcf0.gif)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
  <!-- About section -->
 
@@ -54,5 +58,6 @@
    <img align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vadkon2007&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vadkon07&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
