@@ -9,7 +9,7 @@
 ---
 ✨ I'm a coder which likes to create all kind of applications. I'm in a big love with tech, and started to discover her since I was 10. I'm a programmer, but also I like to repair tech, assembly computers, and fully customize my OS internally and externally.
 
-I love sharing my knowledge with others, so feel free to ask me questions. I like Open Source movement, so I'm also fluent in Linux and use a lot of Open Source software. When I'm not coding, you can find me writing hip-hop music or music.
+I love sharing my knowledge with others, so feel free to ask me questions. I like Open Source movement, and I'm also fluent in Linux and use a lot of Open Source software. When I'm not coding, you can find me writing hip-hop music or reading a book.
 
 
 <!-- code gif-->
