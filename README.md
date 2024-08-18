@@ -49,8 +49,6 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
  <!-- Conecct section: END -->
  
   <!-- GitHub section -->
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07&theme=dark" alt="Vadim's LangStat" />
