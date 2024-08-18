@@ -58,6 +58,4 @@
    <img align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
 </div>
 
-<p align="center">
- ![](https://komarev.com/ghpvc/?username=Vadkon07)
-</p>
+  ![views](https://komarev.com/ghpvc/?username=Vadkon07)
