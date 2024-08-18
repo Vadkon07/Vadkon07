@@ -53,5 +53,5 @@ I love sharing my knowledge with others, so feel free to ask me questions. I lik
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07&theme=dark" alt="Vadim's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vadim's language" height="192px"  width="500px"/>
-   <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
+   <img align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
 </div>
