@@ -39,7 +39,7 @@
    <img align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
 </div>
 
-<h3>Support me </h3>
+<h3>Support Me ❤️</h3>
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=SHZMGX8W8MV6Y)
 
