@@ -5,6 +5,8 @@
 ---
 ✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, contribute to the Open Source movement, etc. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
 
+At all I love to code any type of applications, but especially I like to create codes and tools which can be useful for other people. For example: If my friend likes to do everything on his PC only by using native terminal of his Linux/Windows machine, I can try to help him by creating an application which he can run direclty from terminal, and get what he needs without using any GUI for it.
+
 🎵 When I’m not immersed in code, you’ll find me crafting hip-hop music or diving into a good book. Sharing knowledge and collaborating with others energizes me. Let’s make the tech world bigger and better together! 🚀
 
 - 😄 **My Pronouns:** He/Him
