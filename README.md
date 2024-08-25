@@ -47,4 +47,6 @@ At all I love to code any type of applications, but especially I like to create 
 
   ![views](https://komarev.com/ghpvc/?username=Vadkon07)
 
+  For now I want to save enough money from donations and buy or Logitech K120, or if we will save more probably I will buy Logitech Pebble Keys k380s. If you will decide to donate to me, send a message on my email for what keyboard your donation is, for K120 or k380s. Thanks!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
