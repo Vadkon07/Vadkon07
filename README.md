@@ -36,9 +36,15 @@ At all I love to code any type of applications, but especially I like to create 
    
  <h3>Github Stats 📈<h/3>
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07&theme=dark" alt="Vadim's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&langs_count=10&show_icons=false&locale=en&layout=compact&theme=dark" alt="Vadim's language" height="192px"  width="500px"/>
-   <img align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vadkon07&show_icons=true&theme=dark" />
+   <p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vadkon07&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&" alt="Vadim's language" height="192px" width="500px" />
+   </p>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&" alt="Vadim's language" height="192px" width="500px" />
+ <p align="center">
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadkon07&theme=transparent" height="180em" alt="Commitments"/>
+ </p>
 </div>
 
 <h3>Support Me ❤️</h3>
@@ -48,5 +54,7 @@ At all I love to code any type of applications, but especially I like to create 
   ![views](https://komarev.com/ghpvc/?username=Vadkon07)
 
   For now I want to save enough money from donations and buy or Logitech K120, or if we will save more probably I will buy Logitech Pebble Keys k380s. If you will decide to donate to me, send a message on my email for what keyboard your donation is, for K120 or k380s. Thanks!
+
+  <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
