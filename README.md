@@ -42,7 +42,7 @@ At all I love to code any type of applications, but especially I like to create 
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vadkon07&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&" alt="Vadim's language" height="192px" width="500px" />
  <p align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" alt="Stats"/>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vadkon07&theme=transparent" height="180em" alt="Stats"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vadkon07&theme=transparent" height="180em" alt="Commitments"/>
  </p>
 </div>
