@@ -15,7 +15,7 @@ At all I love to code any type of applications, but especially I like to create 
 
 - 📫 **How to reach me (email):** vadkonbeats@gmail.com
 
-- ⚡ **Fun fact:** I have a very powerful laptop, but the biggest part of my day I spend with a very old and slow low-end laptop, just because I love him and also use him for coding.
+- ⚡ **Fun fact:** I'm a big fan of minimalism, and by it all my devices have black wallpaper and all status bars are disabled. Also I use dumb phone, yeah. I think that minimalism is a key to productive work and clean mind.
 
 - 🎓 **Education:** Still study :)
 
@@ -53,7 +53,7 @@ At all I love to code any type of applications, but especially I like to create 
 
   ![views](https://komarev.com/ghpvc/?username=Vadkon07)
 
-  For now I want to save enough money from donations and buy a perfect keyboard **Logitech Pebble Keys k380s**. Thanks!
+  I want to save enough money from donations and buy a decent laptop for 200-200$. I would like to buy a laptop which will have SSD, 8GB of RAM, and processor Intel Core i5 8 Gen or something similar to him. Big Thanks for your donations!
 
   <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
