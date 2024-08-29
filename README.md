@@ -53,7 +53,7 @@ At all I love to code any type of applications, but especially I like to create 
 
   ![views](https://komarev.com/ghpvc/?username=Vadkon07)
 
-  I want to save enough money from donations and buy a decent laptop for 200-200$. I would like to buy a laptop which will have SSD, 8GB of RAM, and processor Intel Core i5 8 Gen or something similar to him. Big Thanks for your donations!
+  I want to save enough money from donations and buy a decent laptop for 200-200$. I would like to buy a laptop which will have SSD, 8GB of RAM, and processor Intel Core i5-i7 8 Gen+ or something similar to him. Big Thanks for your donations!
 
   <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
