@@ -23,7 +23,7 @@ At all I love to code any type of applications, but especially I like to create 
 
 - 💻 **I'm currently learning:** Python, C, C++, HTML, CSS
  
-- 💾 **OS which I use:** Windows, Linux (have experience with literally all distributions, but mainly prefer to use Arch Linux), Android
+- 💾 **OS which I use:** Windows, Linux (have experience with literally all distributions, but mainly prefer to use Arch Linux), FreeBSD, Android
  
 - 🛠 **Tools:** Vim, Git, Apache, Visual Code, Firefox, GCC, i3wm, Alacritty
 
