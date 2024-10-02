@@ -53,7 +53,7 @@ At all I love to code any type of applications, but especially I like to create 
 
   ![views](https://komarev.com/ghpvc/?username=Vadkon07)
 
-  My goal for donations: save enough money from donations and buy a **Lenovo ThinkPad T480** with **Intel Core i7 8 Gen**, **16 GB RAM**, **SSD**, **1920x1080** up to **160$**. Big Thanks for all your donations!
+  My goal for donations: save enough money from donations and buy a **Lenovo ThinkPad T480** with **Intel Core i7 8 Gen**, **16 GB RAM**, **SSD**, **1920x1080** up to **200$**. Big Thanks for all your donations!
 
   <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
 
