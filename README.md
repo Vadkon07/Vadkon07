@@ -13,7 +13,7 @@ At all I love to code any type of applications, but especially I like to create 
 
 - 💬 **Ask me about:** Psychology, Books, Music, Workout, Content Creation, Personal-Development, Tech, Minimalism (also Digital)
 
-- 📫 **How to reach me (email):** vadkonbeats@gmail.com
+- 📫 **How to reach me (email):** SOON
 
 - ⚡ **Fun fact:** I'm a big fan of minimalism, and by it all my devices have black wallpaper and all status bars are disabled. Also I use dumb phone, yeah. I think that minimalism is a key to productive work and clean mind.
 
@@ -30,7 +30,7 @@ At all I love to code any type of applications, but especially I like to create 
 <h2>Connect with me ✉️</h3>
     <p>
       <a href="https://www.youtube.com/@Vadkon07"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-      <a href="mailto:vadkonbeats@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+      <a href="mailto:noemail@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
    </p>
    
  <h3>Github Stats 📈<h/3>
