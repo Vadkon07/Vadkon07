@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">👋 Hi, I'm Vadim Kondratov</h1>
+<h1 align="center">👋 Hi, I'm Vadkon</h1>
 
 ---
 ✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, contribute to the Open Source movement, etc. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
