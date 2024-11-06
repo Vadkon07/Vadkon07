@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Vadkon</h1>
 
 ---
-✨ Passionate about technology, I’ve been exploring the digital realm since I was 10. As a coder, I create diverse applications, delve into Linux, contribute to the Open Source movement, etc. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
+✨ Passionate about technology. As a coder, I create diverse applications, delve into Linux, contribute to the Open Source movement, etc. My love for tech extends beyond code—I enjoy repairing hardware, assembling computers, and customizing my OS both internally and externally.
 
 At all I love to code any type of applications, but especially I like to create codes and tools which can be useful for other people. For example: If my friend likes to do everything on his PC only by using native terminal of his Linux/Windows machine, I can try to help him by creating an application which he can run direclty from terminal, and get what he needs without using any GUI for it.
 
@@ -16,8 +16,6 @@ At all I love to code any type of applications, but especially I like to create 
 - 📫 **How to reach me (email):** SOON
 
 - ⚡ **Fun fact:** I'm a big fan of minimalism, and by it all my devices have black wallpaper and all status bars are disabled. Also I use dumb phone, yeah. I think that minimalism is a key to productive work and clean mind.
-
-- 🎓 **Education:** Still study :)
 
 - 🏆 **Main Goal:** Get a nice job and move to the United States of America
 
