@@ -7,14 +7,12 @@
 
 At all I love to code any type of applications, but especially I like to create codes and tools which can be useful for other people. For example: If my friend likes to do everything on his PC only by using native terminal of his Linux/Windows machine, I can try to help him by creating an application which he can run direclty from terminal, and get what he needs without using any GUI for it.
 
-🎵 When I’m not immersed in code, you’ll find me crafting hip-hop music or diving into a good book. Sharing knowledge and collaborating with others energizes me. Let’s make the tech world bigger and better together! 🚀
+🎵 When I’m not immersed in code, you’ll find me crafting hip-hop music or diving into a good book. Sharing knowledge and collaborating with others energizes me. 🚀
 
 - 😄 **My Pronouns:** He/Him
 
 - 💬 **Ask me about:** Psychology, Books, Music, Workout, Content Creation, Personal-Development, Tech, Minimalism (also Digital)
-
-- 📫 **How to reach me (email):** SOON
-
+- 
 - ⚡ **Fun fact:** I'm a big fan of minimalism, and by it all my devices have black wallpaper and all status bars are disabled. Also I use dumb phone, yeah. I think that minimalism is a key to productive work and clean mind.
 
 - 🏆 **Main Goal:** Get a nice job and move to the United States of America
