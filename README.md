@@ -12,7 +12,7 @@ At all I love to code any type of applications, but especially I like to create 
 - 😄 **My Pronouns:** He/Him
 
 - 💬 **Ask me about:** Psychology, Books, Music, Workout, Content Creation, Personal-Development, Tech, Minimalism (also Digital)
-- 
+
 - ⚡ **Fun fact:** I'm a big fan of minimalism, and by it all my devices have black wallpaper and all status bars are disabled. Also I use dumb phone, yeah. I think that minimalism is a key to productive work and clean mind.
 
 - 🏆 **Main Goal:** Get a nice job and move to the United States of America
