@@ -19,7 +19,7 @@ At all I love to code any type of applications, but especially I like to create 
 
 - 💻 **I'm currently learning:** Python, C, C++, HTML, CSS
  
-- 💾 **OS which I know/use:** Windows, Linux (mainly drive Arch Linux), MacOS, FreeBSD, Android, ReactOS, iOS, TempleOS
+- 💾 **OS which I know/use:** Windows, Linux (mainly drive Arch Linux), MacOS, FreeBSD, Android, ReactOS, iOS, TempleOS, Oracle Solaris, TrueNAS
  
 - 🛠 **Tools:** Vim, Git, Apache, Visual Code, Firefox, GCC, i3wm, Alacritty
 
